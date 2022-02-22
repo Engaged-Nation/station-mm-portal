@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ba536a58ab007dda90e3befca3fcf28d",
+    "content-hash": "888056fd2d5679c2f515d0c4d4070de8",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -1075,7 +1075,6 @@
                 "php": ">=5.5.9",
                 "zircote/swagger-php": "^2.0"
             },
-            "default-branch": true,
             "type": "project",
             "autoload": {
                 "psr-4": {
@@ -1117,7 +1116,6 @@
             "require-dev": {
                 "phpunit/phpunit": "^6.0"
             },
-            "default-branch": true,
             "type": "project",
             "autoload": {
                 "psr-4": {
@@ -1156,7 +1154,6 @@
                 "phpunit/phpunit": "^5.6",
                 "symfony/symfony": "3.2.*"
             },
-            "default-branch": true,
             "type": "project",
             "autoload": {
                 "psr-4": {
@@ -1204,7 +1201,6 @@
             "require-dev": {
                 "phpunit/phpunit": "^6.0"
             },
-            "default-branch": true,
             "type": "project",
             "autoload": {
                 "psr-4": {
@@ -1227,12 +1223,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:Engaged-Nation/portal-core.git",
-                "reference": "70e65132246529a2e5b0acf508b75cd89ada99e6"
+                "reference": "1755482a340ce6b5f9c0e92a16f9e685f117401b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Engaged-Nation/portal-core/zipball/70e65132246529a2e5b0acf508b75cd89ada99e6",
-                "reference": "70e65132246529a2e5b0acf508b75cd89ada99e6",
+                "url": "https://api.github.com/repos/Engaged-Nation/portal-core/zipball/1755482a340ce6b5f9c0e92a16f9e685f117401b",
+                "reference": "1755482a340ce6b5f9c0e92a16f9e685f117401b",
                 "shasum": ""
             },
             "require": {
@@ -1263,7 +1259,6 @@
                 "consolidation/robo": "^1.0",
                 "phpunit/phpunit": "^5.6"
             },
-            "default-branch": true,
             "type": "project",
             "autoload": {
                 "psr-4": {
@@ -1284,7 +1279,7 @@
                 "source": "https://github.com/Engaged-Nation/portal-core/tree/rc",
                 "issues": "https://github.com/Engaged-Nation/portal-core/issues"
             },
-            "time": "2022-02-08T18:57:21+00:00"
+            "time": "2022-02-08T18:57:47+00:00"
         },
         {
             "name": "grasmash/expander",
