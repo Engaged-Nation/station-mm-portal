@@ -259,7 +259,7 @@ fzone:
   #
   myvouchers:
     header: ""
-    bodycopy: "View your Rewards below. STN Sports Credits received will be posted to your STN Sports Account by the dates and times shown."
+    bodycopy: "View your rewards below. STN Sports Credits received will be posted to your STN Sports Account by the dates and times shown."
     details: "<p><span class=\"goGold\">Player Name</span>: %issuedTo%</p>
       <p><span class=\"goGold\">STN Sports Account Number</span>: %playerscard%</p>
       <p><span class=\"goGold\">Date Issued</span>: %issued_date%</p>
